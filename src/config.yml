@@ -1,0 +1,15 @@
+# .
+# . Plugin created by @damianoR on Telegram
+# .
+
+Generatori:
+  Base: "9:60"
+  Smart: "4:80"
+  Smart++: "14:40"
+
+AutoBreak: "Smart,Smart++"
+
+Lore:
+  - "&7Piazza nell'isola"
+  - "&7per iniziare a generare!"
+  - ""

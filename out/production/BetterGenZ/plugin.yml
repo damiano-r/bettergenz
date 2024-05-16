@@ -1,0 +1,12 @@
+name: BetterGenZ
+main: it.better.genz.Main
+version: 1.0
+api-version: 1.13
+depend: [SuperiorSkyblock2]
+author: "damianoR"
+commands:
+  ctest:
+    description: Test per verificare quanti task sono attivi
+  bettergenz:
+    description: Givva un generatore al player
+    aliases: [bgz]
